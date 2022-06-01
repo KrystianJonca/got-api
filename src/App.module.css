@@ -1,0 +1,15 @@
+.header {
+  max-width: 640px;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: clamp(2rem, 3vw, 4rem);
+}
+
+.main {
+  max-width: 780px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
